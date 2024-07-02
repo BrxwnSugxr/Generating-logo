@@ -122,6 +122,6 @@ Customisation:
 ## Deployed Application
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
-[https://github.com/yukitoshi12345/SVG-Logo-Maker/](https://brxwnsugxr.github.io/Generating-logo/)
+[https://github.com/BrxwnSugxr/Generating-logo](https://brxwnsugxr.github.io/Generating-logo/)
 
 
